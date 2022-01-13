@@ -18,16 +18,16 @@ Complete all of the coding prompts below within the com.galvanize package. You m
 2. Using a for loop, complete the method below so that it that prints every element of the Array that is passed in.
 
 
-3. Given the following array:
-
-
+3. Given the following array:  
+```
       String[][] rowsOfLetters = {
          {"A", "B", "C"},
          {"D", "E", "F"},
          {"G", "H", "I"},
          {"J", "K"},
          {"L"},
-      };
+      }; 
+```
 Use two nested loops to go through rowsOfLetters and print out each letter.
 
 4. Write a Method with the signature public static HashMap<String, Integer> characterCount(String letters){ 
